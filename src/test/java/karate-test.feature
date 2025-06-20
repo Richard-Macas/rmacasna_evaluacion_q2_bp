@@ -1,3 +1,4 @@
+@REQ_BTPMCDP-118 @BTPMCDP-118 @marvel_characters @Agente2 @E2
 Feature: Test de API súper simple
 
   Background:
